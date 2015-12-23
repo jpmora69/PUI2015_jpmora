@@ -1,0 +1,13 @@
+
+associating rage to color is alwasys at risk of triggering preconceptions
+
+labels too small
+
+consider using amore compact notation for large numbers, for example plot income in units of $1,000  and say that in the label
+
+size of poitns unexplained
+
+the three default dots in the legend should be changed to 1 as they are redudnant
+
+there is a lot of empty space in the plot. begin by removing empty space <0 on both axes, which is not meaningful anyways (no negative income)
+
